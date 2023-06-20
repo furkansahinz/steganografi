@@ -11,6 +11,8 @@ Online Tools
 steghide ile veri veri saklama ve çıkarma
 
 steghide embed -cf a.jpg -ef -gizli.txt
-> passwd
 steghide extract -sf a.jpg
-> passwd
+passwd
+
+
+https://github.com/th3gundy/stegCracker/tree/master
