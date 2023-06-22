@@ -20,5 +20,10 @@ passwd
 
 
 https://github.com/th3gundy/stegCracker/tree/master
+
 https://jpinsoft.net/DeepSound/Download.aspx
+
 https://www.cybrary.it/blog/steganography-hide-data-media-files-mr-robot-hack
+
+
+https://drive.google.com/drive/folders/1Y7iEqmzBZe2jUeWS7OKy1zfc_IzRbBmm?usp=sharing
