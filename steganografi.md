@@ -7,6 +7,10 @@ Online Tools
 [StegOnline](https://stegonline.georgeom.net/upload)
 
 
+../../../../lmnt/c/Users/klartex/Desktop
+exif gööme 
+
+alt 
 
 steghide ile veri veri saklama ve çıkarma
 
@@ -16,3 +20,4 @@ passwd
 
 
 https://github.com/th3gundy/stegCracker/tree/master
+https://jpinsoft.net/DeepSound/Download.aspx
