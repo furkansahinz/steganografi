@@ -1,3 +1,7 @@
+Veri gizleme, bilgi veya verileri başka bir dosya, görüntü, metin veya medya içerisine saklamak amacıyla kullanılan bir tekniktir.
+
+Bu teknik, verileri görsel veya işitsel bir taşıyıcı ortama gizleyerek, veri saklama işlemini gizli tutar ve dışarıdan kolaylıkla fark edilemez
+
 cicero mö 50li yıllar
 
 Marcus Tullius Tiro > ciceronun kölesi ardından sekreteri
