@@ -1,3 +1,10 @@
+cicero mö 50li yıllar
+
+Marcus Tullius Tiro > ciceronun kölesi ardından sekreteri
+
+Stenografi, normal yazıya kıyasla daha hızlı bir şekilde yazmayı mümkün kılan özel bir tekniktir. 
+Stenografi, konuşma kayıtlarının daha sonra okunması, düzenlenmesi veya arşivlenmesi gereken birçok alanda kullanılır. 
+
 Online Tools
 
 [Aperi'Solve](https://aperisolve.fr/)
